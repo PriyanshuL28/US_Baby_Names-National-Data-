@@ -395,7 +395,7 @@ plt.title("Records per Year")
 plt.show()
 ```
 
-![Counts by Year](./figs/total_by_year.png)
+![Counts by Year](total_by_year.png)
 
 ### Most Popular Names Growth
 
@@ -455,7 +455,7 @@ plt.title("Top 10 Names Growth")
 plt.show()
 ```
 
-![Most Popular Growth](./figs/most_popular_growth.png)
+![Most Popular Growth](most_popular_growth.png)
 
 ### Top 10 Trending Names
 
@@ -529,6 +529,6 @@ plt.title("Top 10 Trending Names")
 plt.show()
 ```
 
-![Trending Names](./figs/trending_names.png)
+![Trending Names](trending_names.png)
 
 
